@@ -1,5 +1,14 @@
-commit 2f0a6e87ed61b9d0c96c7fdd3b9f946a25afad06 (HEAD -> main)git 
+Hello, world!
+こんにちは　世界！
+
+commit 2f0a6e87ed61b9d0c96c7fdd3b9f946a25afad06 (HEAD -> main)
+Author: hirose <yukihio76@gmail.com>
+Date:   Wed Nov 22 22:40:29 2023 +0900
+
     日本語訳訳を追記
 
 commit 57b7b9ef91368aa9fb6f74b3e3a8eb9ef3b9109b
+Author: hirose <yukihio76@gmail.com>
+Date:   Wed Nov 22 22:39:10 2023 +0900
+
     Hello, world
